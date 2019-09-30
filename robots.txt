@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pooreiwon.vaay.com/sitemap.xml
